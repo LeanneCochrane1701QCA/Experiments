@@ -8,7 +8,7 @@
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 1 Say "Hello" to the BBC micro:bit!
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -19,7 +19,7 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was? This was all new to me, this was the first time I had ever even looked at a BBC microbit.
 
 This experiment could be the basis of a real world application such as (insert something here).
 
