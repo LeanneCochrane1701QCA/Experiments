@@ -13,7 +13,7 @@ Experiment 1 Say "Hello" to the BBC Micro:bit!
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](experiment 1 with code.jpg)
+![Image](experiment1withcode.jpg)
 
 This is a picture of experiment 1
 
