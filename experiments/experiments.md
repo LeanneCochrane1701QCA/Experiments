@@ -47,26 +47,26 @@ Experiment 3 Dimming and LED Using a Potentiometer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image]Experiment3working.jpg
+![Image](Experiment3working.jpg)
 
 Here is a picture of Experiment 3
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was that you need to make sure all the wires are in firmly.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a lightswitch in a room that dims itself depending on how much light is in the room already.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 4 Using a Transisitor to Drive a Motor
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment4codeandworking.png)
 
-(Insert a caption here)
+A picture of Experiment 4 with the code included
 
 #### Reflection ####
 
