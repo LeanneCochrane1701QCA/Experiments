@@ -30,7 +30,7 @@ Experiment 2 Using a Light Sensor and Analog Inputs
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](experiment2moon.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Experiments/commit/d49e283403e48b2081c613f580f2047d921d8c2f#diff-5408a1fc6a674d7d3098347e1d542e50)
 
 This is showing one view of experiment 2
 
