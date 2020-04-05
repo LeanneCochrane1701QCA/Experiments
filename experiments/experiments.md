@@ -30,7 +30,7 @@ Experiment 2 Using a Light Sensor and Analog Inputs
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](experiment 2 moon.jpg)
+!experiment 2 moon.jpg
 
 Experiment 2 Moon
 
