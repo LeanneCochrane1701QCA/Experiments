@@ -30,7 +30,7 @@ Experiment 2 Using a Light Sensor and Analog Inputs
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](experiment 2 moon.jpg)
+![Image](experiment2moon.jpg)
 
 This is showing one view of experiment 2
 
@@ -42,14 +42,14 @@ This experiment could be the basis of a real world application such as letting y
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 3 Dimming and LED Using a Potentiometer
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image]Experiment3working.jpg
 
-(Insert a caption here)
+Here is a picture of Experiment 3
 
 #### Reflection ####
 
