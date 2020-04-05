@@ -11,7 +11,6 @@
 Experiment 1 Say "Hello" to the BBC Micro:bit!
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Experiments/blob/master/Experiment%201%20with%20code.jpg)
 
@@ -28,7 +27,7 @@ This experiment could be the basis of a real world application such as a welcome
 Experiment 2 Using a Light Sensor and Analog Inputs
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Experiments/blob/master/Experiment%202%20moon.jpg)
 
@@ -45,7 +44,7 @@ This experiment could be the basis of a real world application such as letting y
 Experiment 3 Dimming and LED Using a Potentiometer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Experiments/blob/master/Experiment%203%20working.jpg)
 
@@ -62,7 +61,7 @@ This experiment could be the basis of a real world application such as a lightsw
 Experiment 4 Using a Transisitor to Drive a Motor
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Experiments/blob/master/Experiment%204%20code%20%26%20working.jpg)
 
@@ -70,7 +69,7 @@ A picture of Experiment 4 with the code included
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was you really need to be persistent sometimes, I tried everything on this project to get it to work, pulled apart and put back together, in the end.
 
 This experiment could be the basis of a real world application such as (insert something here).
 
