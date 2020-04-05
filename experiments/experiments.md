@@ -15,7 +15,7 @@ Experiment 1 Say "Hello" to the BBC Micro:bit!
 
 ![Image](experiment 1 with code.jpg)
 
-Experiment 1 showing the code
+This is a picture of experiment 1
 
 #### Reflection ####
 
@@ -30,9 +30,9 @@ Experiment 2 Using a Light Sensor and Analog Inputs
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-!experiment 2 moon.jpg
+![Image](experiment 2 moon.jpg)
 
-Experiment 2 Moon
+This is showing one view of experiment 2
 
 #### Reflection ####
 
