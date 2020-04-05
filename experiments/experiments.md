@@ -13,7 +13,7 @@ Experiment 1 Say "Hello" to the BBC Micro:bit!
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](experiment1withcode.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Experiments/blob/master/Experiment%201%20with%20code.jpg)
 
 This is a picture of experiment 1
 
@@ -47,7 +47,7 @@ Experiment 3 Dimming and LED Using a Potentiometer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](Experiment3working.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Experiments/blob/master/Experiment%203%20working.jpg)
 
 Here is a picture of Experiment 3
 
@@ -64,7 +64,7 @@ Experiment 4 Using a Transisitor to Drive a Motor
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](Experiment4codeandworking.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Experiments/blob/master/Experiment%204%20code%20%26%20working.jpg)
 
 A picture of Experiment 4 with the code included
 
